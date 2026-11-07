@@ -109,5 +109,5 @@ También reforcé la programación orientada a objetos, la manipulación dinámi
 
 Proyecto desarrollado como parte de mi formación práctica en JavaScript y desarrollo web.
 
-Cristhian Chanamé
+**Cristhian Chanamé**  
 Estudiante de Ingeniería de Software.
